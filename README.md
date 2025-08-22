@@ -54,7 +54,3 @@ Para visualizar o projeto, basta seguir os passos abaixo:
 * **Instagram:** [@gabriel.b4rbosaa](https://www.instagram.com/gabriel.b4rbosaa/)
 
 ---
-
-## 🎓 Agradecimentos
-
-Este projeto foi desenvolvido como parte do currículo do curso de [Nome do seu Curso], sob a orientação do professor(a) [Nome do(a) Professor(a)], na instituição [Nome da sua Instituição].
